@@ -1,0 +1,17 @@
+Algorithm,EpsilonType,DealerAdvantage
+monte,carlo_fixed_0.1,0.05503589297367849
+monte,carlo_decay_linear,0.12255007538229593
+monte,carlo_decay_exp1000,0.08130434782608696
+monte,carlo_decay_exp10000,0.07257799671592775
+sarsa,fixed_0.1,0.06470908102229472
+sarsa,decay_linear,0.1223145849076973
+sarsa,decay_exp1000,0.10089735171810024
+sarsa,decay_exp10000,0.057885539536915685
+qlearning,fixed_0.1,0.07968869889290804
+qlearning,decay_linear,0.10628124320799825
+qlearning,decay_exp1000,0.07037607213547394
+qlearning,decay_exp10000,0.06322155030236394
+double,qlearning_fixed_0.1,0.06472136902150066
+double,qlearning_decay_linear,0.08444054024376853
+double,qlearning_decay_exp1000,0.08040695766327535
+double,qlearning_decay_exp10000,0.06205985915492958
